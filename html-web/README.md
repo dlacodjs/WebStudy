@@ -21,4 +21,4 @@ HTML 의 기본 태그 <..>  </..>
 속성 : <tag ...="..."  ...="...">  
 ex) \<img src="주소" width="크기">  
 
-[![html](https://drive.google.com/open?id=1OuYuyyVA9Y3U9rVq3V8s6VE8goTK5iQq)]
+[![html](http://drive.google.com/uc?export=view&id=1OuYuyyVA9Y3U9rVq3V8s6VE8goTK5iQq)]
