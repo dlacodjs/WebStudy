@@ -16,7 +16,7 @@ body   : 본문
 meta   : 읽는 형식  
 등이 있으며  
   
-시작은 '<!DOCTYPE html>' 로 하는게 표준이고  
+시작은 \<!DOCTYPE html> 로 하는게 표준이고  
   
 속성 : <tag ...="..."  ...="...">  
 ex) <img src="주소" width="크기">  
