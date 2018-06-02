@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+  <style>
+    .js{
+      font-weight: bold;
+      color:red;
+    }
+    #first{
+      color:green;
+    }
+    span{
+      color:blue;
+    }
+  </style>
+  <title>WEB - html</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1><a href="index.html">WEB</a></h1>
+  <div id="grid">
+    <ol>
+      <li><a href="1.html">HTML</a></li>
+      <li><a href="2.html">CSS</a></li>
+      <li><a href="3.html">JavaScript</a></li>
+    </ol>
+    <div id="article">
+      <h2 style="background-color:coral;color:powderblue;">HTML</h2>
+      <input type="button" value="김" onclick="alert('보의')">
+      <p>
+        <span id="first" class="js">Hypertext Markup Language (HTML)</span>
+        is the standard markup language for creating web pages and web applications.
+        With <span class="js">Cascading Style Sheets (CSS)</span> and JavaScript it forms a triad of cornerstone
+         technologies for the World Wide <span class="js">Web</span>.[2] Web browsers receive <span class="js">HTML</span> documents from
+         a web server or from local storage and render them into multimedia web pages. <span class="js">HTML</span> describes
+         the structure of a web page semantically and originally included cues for
+         the appearance of the document.
+      </p>
+      <input id="night_day" type="button" value="night" onclick="
+      var target = document.querySelector('body');
+      if(this.value === 'night'){
+        target.style.backgroundColor = 'black';
+        target.style.color = 'white';
+        this.value = 'day';
+
+        var alist = document.querySelectorAll('a');
+        var i = 0;
+        while(i < alist.length){
+          alist[i].style.color = 'powderblue';
+          i = i + 1;
+        }
+      } else {
+        target.style.backgroundColor = 'white';
+        target.style.color = 'black';
+        this.value = 'night';
+
+        var alist = document.querySelectorAll('a');
+        var i = 0;
+        while(i < alist.length){
+          alist[i].style.color = 'blue';
+          i = i + 1;
+        }
+      }
+    ">
+    </div>
+  </div>
+  </body>
+  </html>
