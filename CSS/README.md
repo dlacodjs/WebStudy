@@ -4,11 +4,11 @@ html과 css는 다른 개념이므로 html언어로 style 태그를 이용해야
 
 ===============================================================
 
-font 글자 꾸미기 태그  
-style CSS시작태그  
+font : 글자 꾸미기 태그  
+style : CSS시작태그  
   
   
-+ /<CSS>
++ CSS
 ex)
 ![CSS](http://drive.google.com/uc?export=view&id=1F4ipyravnzD8xhOskCswvQSAzXMSiUYp)  
 a {  
