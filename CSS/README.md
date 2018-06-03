@@ -45,3 +45,7 @@ grid-template-...
 @media  
 min-width  
 max-width  
+
+
+![CSS](http://drive.google.com/uc?export=view&id=1F4ipyravnzD8xhOskCswvQSAzXMSiUYp)  
+위 사진은 index.html 실행 결과입니다.
