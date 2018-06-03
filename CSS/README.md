@@ -8,8 +8,8 @@ font 글자 꾸미기 태그
 style CSS시작태그  
   
   
- <CSS>  
-ex)  
++ /<CSS>
+ex)
 ![CSS](http://drive.google.com/uc?export=view&id=1F4ipyravnzD8xhOskCswvQSAzXMSiUYp)  
 a {  
 color:red;  
