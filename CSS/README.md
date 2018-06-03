@@ -10,10 +10,10 @@ style CSS시작태그
   
  <CSS>  
 ex)  
-![CSS](http://drive.google.com/uc?export=view&id=1F4ipyravnzD8xhOskCswvQSAzXMSiUYp)  
-a {  
-color:red;  
-}  
+![html](http://drive.google.com/uc?export=view&id=1F4ipyravnzD8xhOskCswvQSAzXMSiUYp)  
+//a {  
+//color:red;  
+//}  
   
 a는 선택자(selector)   
 color:red; 는 효과,선언(declaration)  
