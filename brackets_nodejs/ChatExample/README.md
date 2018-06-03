@@ -13,4 +13,4 @@
 ![ChatExample](http://drive.google.com/uc?export=view&id=1oKsr54JVE9lKefx943297KqCD7LN6FrK)  
 ![ChatExample](http://drive.google.com/uc?export=view&id=1h4XVdmUTxxi7oUDNsrNhAAbfmknFxq2V)  
 위 사진은 순서대로 app.js, app2.js, app3.js, app4.js, app5.js 를 실행시켜 나타난  
-chat01.html, chat02.html, chat03.html, chat04.html, chat05.html의 모습입니다.
+chat01.html, chat02.html, chat03.html, chat04.html, chat05.html 의 모습입니다.
