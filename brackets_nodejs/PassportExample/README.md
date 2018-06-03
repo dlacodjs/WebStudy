@@ -7,7 +7,8 @@
   
 을 공부 했습니다.
 
-![PassportExample](http://drive.google.com/uc?export=view&id=1gi1u8Hj5WPJimfLGIxzQRAFtKcNU6DAJ)  
-![PassportExample](http://drive.google.com/uc?export=view&id=10r0RNmfdTnwMaGSFvGVVP4Pzq_3q0eq8)  
+![PassportExample](http://drive.google.com/uc?export=view&id=1q2_UTlqMWoDiWE2cLsDkHsBMLR8yBTo_)  
+![PassportExample](http://drive.google.com/uc?export=view&id=1eoc_JWrapLabUj40Uhz1IrWDfpvIb9Hc)  
 ![PassportExample](http://drive.google.com/uc?export=view&id=1nTYTHlUfT6loVgliL9CaBXVPv457cDQT)  
-위 사진은 app.js을 실행시킨 모습입니다.
+![PassportExample](http://drive.google.com/uc?export=view&id=196rIeuW_wwiXJSjIsN44bm3qhODl0MtN)  
+위 사진은 app.js을 실행시켜 나타난 홈, 회원가입, 로그인, 로그인한 상황의 모습입니다.
