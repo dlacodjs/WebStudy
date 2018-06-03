@@ -109,4 +109,8 @@ querySelector() 가 함수.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 + @ui api  
 ui = 유저 인터페이스  
-api = 애플리케이션 프로그래밍 인터페이스
+api = 애플리케이션 프로그래밍 인터페이스  
+  
+![JavaScript](http://drive.google.com/uc?export=view&id=1VfbT6VjS9zO21roOkXG7LYTBtoWiIbEL)  
+![JavaScript](http://drive.google.com/uc?export=view&id=1oXzEYrQ7uBOPdRAhW9lllAc1WDuZqXhn)  
+위 사진은 Java script/1.html 실행 결과입니다.
