@@ -11,6 +11,7 @@ style : CSS시작태그
 + CSS  
 ex)
 ![CSS](http://drive.google.com/uc?export=view&id=1F4ipyravnzD8xhOskCswvQSAzXMSiUYp)  
+  
 a {  
 color:red;  
 }  
@@ -36,7 +37,7 @@ css활용 border
         width 등등  
   
 + grid  
-부모 태그로 감싸서 고차원적 디자인 : <div>,<span>  
+부모 태그로 감싸서 고차원적 디자인 : \<div>,\<span>  
 display:grid;  
 grid-template-...  
   
